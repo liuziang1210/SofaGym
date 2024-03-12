@@ -14,7 +14,6 @@ from sofagym.envs.TrunkCup.TrunkCupEnv import *
 from sofagym.envs.CartPole.CartPoleEnv import *
 from sofagym.envs.CatheterBeam.CatheterBeamEnv import *
 
-
 # registering sofagym envs as gymnasium envs
 from gym.envs.registration import register
 register(
